@@ -1,3 +1,5 @@
+# mAP (mean Average Precision)
+
 # Pascal VOC
 
 IoU > 0.5 : true
@@ -22,5 +24,5 @@ TP / ( TP + FN ) = TP / ground truths
 
 TP / ( TP + FP ) = TP / predictions
 
-# mAP (mean Average Precision)
+
 
