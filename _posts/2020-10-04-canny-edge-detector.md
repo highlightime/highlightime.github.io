@@ -11,6 +11,3 @@ detect a wide range of edges in images
 
 
 
-/begin{equation*}
-
-/end{equqtion*}
