@@ -12,7 +12,7 @@
 
 한 물체에 바운딩 박스가 여러개 그려지는 경우 제거
 
-```python
+``` python
 def non_max_suppression(img, D):
   M, N = img.shape
   Z = np.zeros((M,N), dtype=np.int32) angle = D * 180. / np.pi angle[angle < 0] += 180
