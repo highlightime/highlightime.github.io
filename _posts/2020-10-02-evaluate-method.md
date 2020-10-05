@@ -1,3 +1,7 @@
+---
+title: "Evaulate Method"
+categories: ML
+---
 Detection 기술의 성능 평가 : 알고리즘의 파라미터 조절에 따라 유동적으로 변화
 
 검출율 -> detection rate == recall : 대상 물체들을 빠뜨리지 않고 얼마나 잘 잡아내나?
