@@ -1,3 +1,8 @@
+---
+title: "Thresholding"
+categories: Vision
+---
+
 # Threshold
 
 ```python
