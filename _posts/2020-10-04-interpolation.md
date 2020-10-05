@@ -1,3 +1,8 @@
+---
+title: "Interpolation"
+categories: Math
+---
+
 # Antialiasing
 히스토그램의 bin 크기에 따라 계단현상 발생
 계단 현상 완화 위해 보간 방법 사용
