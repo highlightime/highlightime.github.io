@@ -1,3 +1,7 @@
+---
+title: "Color Model"
+categories: vision
+---
 # Gray Model
 
 (255)
