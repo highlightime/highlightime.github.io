@@ -1,6 +1,6 @@
 ---
 title: "Evaulate Method"
-categories: ML
+categories: Vision
 ---
 Detection 기술의 성능 평가 : 알고리즘의 파라미터 조절에 따라 유동적으로 변화
 
