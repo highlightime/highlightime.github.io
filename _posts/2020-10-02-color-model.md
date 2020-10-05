@@ -1,6 +1,6 @@
 ---
 title: "Color Model"
-categories: vision
+categories: Vision
 ---
 # Gray Model
 
