@@ -5,6 +5,8 @@ categories: Vision
 
 # Threshold
 
+strong, weak threshold 에 걸린 선들 모두 표시
+- Double Threshold
 ```python
 def threshold(img, lowThresholdRatio=0.05, highThredholdRatio=0.09): 
   highThreshold = img.max() * highThredholdRatio
