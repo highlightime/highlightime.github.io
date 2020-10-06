@@ -1,6 +1,7 @@
 ---
 title: Consine Similarity
 category: Math
+tag: Distant Measurement
 ---
 
 # Consine Similarity 
