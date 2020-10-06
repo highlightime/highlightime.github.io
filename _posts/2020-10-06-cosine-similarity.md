@@ -4,7 +4,7 @@ category: Math
 tag: Distant Measurement
 use_math: true
 ---
-
+This formula $f(x) = x^2$ is an example.
 # Consine Similarity 
 두 벡터간의 코사인 각도를 이용해 구하는 두 벡터의 유사도
 
