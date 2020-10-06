@@ -4,10 +4,14 @@ category: Math
 tag: Distant Measurement
 ---
 
+
 # Consine Similarity 
 두 벡터간의 코사인 각도를 이용해 구하는 두 벡터의 유사도
 
 A*(내적)B/|A||B|
+
+-  Cosine Distant = 1 - Cosine Similarity
+
 
 # Using in Word Vector
 문서1 : 저는 사과 좋아요
