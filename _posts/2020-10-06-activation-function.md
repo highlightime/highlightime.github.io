@@ -44,7 +44,7 @@ l1a = tf.nn.relu(tf.nn.conv2d(x,w,strides=[1,1,1,1], padding='SAME'))
 ```
 
 # SoftMax( logistic regression )
-- 강화학습 [LINK](https://github.com/yunobro/yunobro.github.io/_posts/2020-10-11-reinforcement-learning.md)
+- 강화학습 [LINK](https://github.com/yunobro/yunobro.github.io/tree/master/_posts/2020-10-11-reinforcement-learning.md)
 
 - (0~1)
 
