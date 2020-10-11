@@ -43,6 +43,20 @@ R(z) = max(0,z)
 l1a = tf.nn.relu(tf.nn.conv2d(x,w,strides=[1,1,1,1], padding='SAME'))
 ```
 
+# SoftMax( logistic regression )
+- 강화학습 [LINK](https://github.com/yunobro/yunobro.github.io/_posts/2020-10-11-reinforcement-learning.md)
+
+- (0~1)
+
+- non-locality
+다른 뉴런 출력값과의 상대적 비교를 통해 최종 출력값 결정된다.
+
+- normalization
+모든 뉴런의 출력값을 합하면 1
+ 
+확률을 알 수 있음 -> 가장 큰값으로 분류됨
+
+
 
 # CNN 
 1. Convolution Filter
