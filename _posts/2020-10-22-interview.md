@@ -1,6 +1,7 @@
 ---
 title: 심층면접준비 -금요일
 Category: Life
+published: false
 ---
 
 # 심층 면접 준비
