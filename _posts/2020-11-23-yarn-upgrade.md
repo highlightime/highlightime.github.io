@@ -1,5 +1,5 @@
 ---
-title: [yarn] Error Command failed with exit code 127.
+title: "[yarn] Error Command failed with exit code 127."
 categories: Web
 ---
 
