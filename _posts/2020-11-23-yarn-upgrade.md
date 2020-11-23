@@ -1,6 +1,6 @@
 ---
 title: [yarn] Error Command failed with exit code 127.
-category: Web
+categories: Web
 ---
 
 ## Reference
