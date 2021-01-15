@@ -35,8 +35,15 @@ published: true
 command 실행 결과를 쉘에 바로 출력
 
 ```
-sudo ./perf stat <command>
+sudo ./perf stat <options> <command>
 ```
+
+주요 옵션
+e <event>: 측정할 이벤트들을 지정
+
+p <pid>: 이벤트를 측정할 프로세스의 pid를 지정 
+
+C <cpu>: 이벤트를 측정할 cpu를 지정
 
 
 
@@ -51,6 +58,11 @@ performance 측정 가능한 event list 확인
 측정 결과를 perf.data에 기록
 
 perf report로 결과 확인 가능
+
+주요 옵션
+ e <event>: 측정할 이벤트들을 지정
+ p <pid>: 이벤트를 측정할 프로세스의 pid 설정 C <cpu>: 이벤트를 측정할 cpu를 설정
+ F <freq>*:* 샘플을 생성할 frequency 설정
 
 
 
